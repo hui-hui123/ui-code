@@ -1,1 +1,1 @@
-print("第二次push")
+print("第n次push")
